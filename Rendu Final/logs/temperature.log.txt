@@ -1,0 +1,7 @@
+Température: 25.0°C
+Température: 25.3°C
+Température: 25.9°C
+Température: 26.3°C
+Température: 25.8°C
+Température: 26.5°C
+
